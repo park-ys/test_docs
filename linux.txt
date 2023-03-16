@@ -1,3 +1,5 @@
 linux work 2023-02-21
 win_user test.txt 추가 한다.
 mac_user 내용 추가 한다.
+
+linux.txt 파일 수정한다.
